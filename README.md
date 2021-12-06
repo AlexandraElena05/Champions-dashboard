@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###What was implemented
+-a home page where a list of champions can be seen
+-the home page has a search box where we can find a matching list of champions
+-we can sort the champions asc or desc
+-if the user clicks on a champion name, he/she can see details about that champion
+-the user can navigate back to the home page where she/he can see the list of champions
